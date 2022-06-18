@@ -20,4 +20,6 @@ I applied Spectral Cluster (connectivity based clustering) on this data.The algo
 for more interpretations, visit the notebook either in this repo or kaggle :
 
 https://www.kaggle.com/code/majdikarim/spectral-clustering
+
+
 https://www.kaggle.com/code/majdikarim/customer-segmentation-using-optics-algorithm
